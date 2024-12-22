@@ -10,17 +10,22 @@ We are proud to share our accomplishments across several categories, highlightin
 
 ### Completed Categories:
 [x] Best Overall AI Agent Product ($20,000-$60,000): Demonstrating excellence in creating a groundbreaking AI agent.
+
 [x] Best Chat-Based Agent ($10,000): Showcasing an intuitive and highly interactive chat-based AI.
+
 [x] Best Unhinged AI Agent Ever ($10,000): Designing an AI agent with unmatched creativity and unconventional brilliance.
 
+
 ### Work-in-Progress Categories:
-[] Best Public Facing Agent ($10,000): Developing an agent with outstanding user experience and public engagement capabilities.
-[x] Best Next-Gen Infra or Frameworks for AI Agents on Solana ($15,000): Innovating on foundational frameworks to enhance scalability and efficiency of AI agents on Solana.
-[x] Best Tools for AI Agents to Manage Token Liquidity ($15,000): Building tools to optimize and streamline token liquidity management in DeFi ecosystems.
+[/] Best Public Facing Agent ($10,000): Developing an agent with outstanding user experience and public engagement capabilities.
+
+[/] Best Next-Gen Infra or Frameworks for AI Agents on Solana ($15,000): Innovating on foundational frameworks to enhance scalability and efficiency of AI agents on Solana.
+
+[/] Best Tools for AI Agents to Manage Token Liquidity ($15,000): Building tools to optimize and streamline token liquidity management in DeFi ecosystems.
 
 ### Future Categories (Planned Work):
-[x] Best AI Agents - Spot Trading ($15,000): Exploring AI capabilities for intelligent and efficient spot trading in cryptocurrency markets.
-[x] Best DeFi Agents ($15,000): Expanding into DeFi-specific use cases to provide robust AI-driven solutions for decentralized finance.
+[ ] Best AI Agents - Spot Trading ($15,000): Exploring AI capabilities for intelligent and efficient spot trading in cryptocurrency markets.
+[ ] Best DeFi Agents ($15,000): Expanding into DeFi-specific use cases to provide robust AI-driven solutions for decentralized finance.
 Project Features
 
 
