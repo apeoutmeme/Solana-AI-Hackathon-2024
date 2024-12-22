@@ -14,7 +14,7 @@ We are proud to share our accomplishments across several categories, highlightin
 [x] Best Unhinged AI Agent Ever ($10,000): Designing an AI agent with unmatched creativity and unconventional brilliance.
 
 ### Work-in-Progress Categories:
-[x] Best Public Facing Agent ($10,000): Developing an agent with outstanding user experience and public engagement capabilities.
+[] Best Public Facing Agent ($10,000): Developing an agent with outstanding user experience and public engagement capabilities.
 [x] Best Next-Gen Infra or Frameworks for AI Agents on Solana ($15,000): Innovating on foundational frameworks to enhance scalability and efficiency of AI agents on Solana.
 [x] Best Tools for AI Agents to Manage Token Liquidity ($15,000): Building tools to optimize and streamline token liquidity management in DeFi ecosystems.
 
