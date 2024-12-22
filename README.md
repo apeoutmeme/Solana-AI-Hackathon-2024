@@ -1,5 +1,6 @@
 # Solana-AI-Hackathon-2024
 10th - 23rd Dec. global &amp; online. $250k+ in prizes
+[image](https://github.com/apeoutmeme/Solana-AI-Hackathon-2024/blob/7c575c348a12740ec8934270bee9d322974de56f/Hackathon-2025-Solana-assets/hackathon.png?raw=true)
 
 ## Hackathon Progress Report: AI Agent Project
 Overview
