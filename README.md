@@ -13,6 +13,7 @@ We are proud to share our accomplishments across several categories, highlightin
 [x] Best Overall AI Agent Product ($20,000-$60,000): Demonstrating excellence in creating a groundbreaking AI agent.
 
 [x] Best Chat-Based Agent ($10,000): Showcasing an intuitive and highly interactive chat-based AI.
+
 [See Here]([https://github.com/apeoutmeme/Solana-AI-Hackathon-2024/blob/7c575c348a12740ec8934270bee9d322974de56f/Hackathon-2025-Solana-assets/apebuddy-chat.mov?raw=true](https://github.com/apeoutmeme/Solana-AI-Hackathon-2024/blob/main/ApeDefiNavigator.md))
 
 [x] Best Unhinged AI Agent Ever ($10,000): Designing an AI agent with unmatched creativity and unconventional brilliance.
@@ -20,6 +21,7 @@ We are proud to share our accomplishments across several categories, highlightin
 
 ### Work-in-Progress Categories:
 [/] Best Public Facing Agent ($10,000): Developing an agent with outstanding user experience and public engagement capabilities.
+
 [See Here](https://github.com/apeoutmeme/Solana-AI-Hackathon-2024/blob/main/ApeDefiNavigator.md)
 
 [/] Best Next-Gen Infra or Frameworks for AI Agents on Solana ($15,000): Innovating on foundational frameworks to enhance scalability and efficiency of AI agents on Solana.
@@ -28,6 +30,7 @@ We are proud to share our accomplishments across several categories, highlightin
 
 ### Future Categories (Planned Work):
 [ ] Best AI Agents - Spot Trading ($15,000): Exploring AI capabilities for intelligent and efficient spot trading in cryptocurrency markets.
+
 [ ] Best DeFi Agents ($15,000): Expanding into DeFi-specific use cases to provide robust AI-driven solutions for decentralized finance.
 Project Features
 
