@@ -13,7 +13,7 @@ We are proud to share our accomplishments across several categories, highlightin
 #### [x] Best Overall AI Agent Product ($20,000-$60,000): Demonstrating excellence in creating a groundbreaking AI agent.
 - ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/AIAgents.png?raw=true)
 
-- [Link to Demo](https://youtu.be/5nlNK3FHvws)
+- [Link to Demo](https://www.youtube.com/shorts/SlzXlANhqlc)
 
 #### [x] Best Chat-Based Agent ($10,000): Showcasing an intuitive and highly interactive chat-based AI.
 
@@ -24,6 +24,7 @@ We are proud to share our accomplishments across several categories, highlightin
 #### [x] Best Unhinged AI Agent Ever ($10,000): Designing an AI agent with unmatched creativity and unconventional brilliance.
 - ![image](https://github.com/apeoutmeme/Solana-AI-Hackathon-2024/blob/7c575c348a12740ec8934270bee9d322974de56f/Hackathon-2025-Solana-assets/apeSass.png?raw=true)
 - [See Here](https://github.com/apeoutmeme/Solana-AI-Hackathon-2024/blob/main/ApeSassBot.md)
+- - [Link to Demo](https://youtu.be/5nlNK3FHvws)
 
 
 ### Work-in-Progress Categories:
@@ -34,7 +35,7 @@ We are proud to share our accomplishments across several categories, highlightin
 
 #### [X] Best Next-Gen Infra or Frameworks for AI Agents on Solana ($15,000): Innovating on foundational frameworks to enhance scalability and efficiency of AI agents on Solana.
 - ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/apemind1.png?raw=true)
-- [Link to Demo](https://youtube.com/shorts/8P6By6ho9YU?feature=share)
+- [Link to Demo](https://www.youtube.com/shorts/uEnNKgmsbYU)
 
 
 #### [X] Best Tools for AI Agents to Manage Token Liquidity ($15,000): Building tools to optimize and streamline token liquidity management in DeFi ecosystems.
