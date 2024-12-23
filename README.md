@@ -66,9 +66,14 @@ Our AI agents are equipped with the following capabilities:
 `npm start`
 
 Team
-[safudev3000] – SR Engineer - Full Stack
-[CapFlint] – Engineer Full-Stack
-[Blockchain Bonnie] – Testing / UI Design
+1. [GenoGrand] – Co-Founder, SE Senior | Full Stack, Smart Contracts
+2. [CapCryptoFlint] – Founder & SE I | Full-Stack, API/Microservices
+3. [Blockchain Bonnie] – UI/UX Lead | Design & Development
+4. [SirKodak] - Ambassador & Community Manager
+5. [Web3Jayhen] - Ambassador/GFX
+6. [ApeSassBot] - Marketing | "Twitter"
+7. [ApeProphet] - Marketing | "Telegram/Twitter"
+8. [BananaBucksBot] - Trading/Custom Interactions | "Telegram"
 
 Acknowledgements
 We extend our gratitude to the [Solana AI Hackathon](https://github.com/sendaifun) organizers and sponsors for this incredible opportunity to innovate and compete in the AI space.
