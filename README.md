@@ -80,14 +80,21 @@ Our AI agents are equipped with the following capabilities:
 `npm start`
 
 Team
-1. [GenoGrand] – Co-Founder, SE Senior | Full Stack, Smart Contracts
-2. [CapCryptoFlint] – Founder & SE I | Full-Stack, API/Microservices
-3. [Blockchain Bonnie] – UI/UX Lead | Design & Development
-4. [SirKodak] - Ambassador & Community Manager
-5. [Web3Jayhen] - Ambassador/GFX
-6. [ApeSassBot] - Marketing | "Twitter"
-7. [ApeProphet] - Marketing | "Telegram/Twitter"
-8. [BananaBucksBot] - Trading/Custom Interactions | "Telegram"
+1. [GenoGrand](https://x.com/genogrand_eth) – Co-Founder, SE Senior | Full Stack, Smart Contracts
+2. [CapCryptoFlint](https://x.com/CryptoFlin95216) – Founder & SE I | Full-Stack, API/Microservices
+3. [Blockchain Bonnie](https://x.com/AO_Solana) – UI/UX Lead | Design & Development
+4. [SirKodak]() - Ambassador & Community Manager
+5. [Web3Jayhen](https://x.com/Web3jayhen) - Ambassador/GFX
+6. [ApeSassBot](https://x.com/ApeSassBot) - Marketing | "Twitter"
+7. [ApeProphet](@apeProphet_Bot) - Marketing | "Telegram/Twitter"
+8. [BananaBucksBot](@banana_bucks_bot) - Trading/Custom Interactions | "Telegram"
+
+## 🔗 Links
+
+- [Documentation](https://apeout.notion.site/ApeMind-Framework-Next-Gen-AI-Agent-Infrastructure-for-Solana-16595c4b66bd80f7ac4eefaa66ba2825)
+- [Website](https://apeout.fun/apemind)
+- [Discord](https://discord.com/invite/9tBWMyRZ)
+- [Twitter](https://twitter.com/apeoutmeme)
 
 Acknowledgements
 We extend our gratitude to the [Solana AI Hackathon](https://github.com/sendaifun) organizers and sponsors for this incredible opportunity to innovate and compete in the AI space.
