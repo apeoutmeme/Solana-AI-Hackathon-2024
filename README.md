@@ -71,4 +71,13 @@ Team
 [Blockchain Bonnie] – Testing / UI Design
 
 Acknowledgements
-We extend our gratitude to the [Solana AI Hackathon] organizers and sponsors for this incredible opportunity to innovate and compete in the AI space.
+We extend our gratitude to the [Solana AI Hackathon](https://github.com/sendaifun) organizers and sponsors for this incredible opportunity to innovate and compete in the AI space.
+
+Sponsors 
+[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit)
+[SendAI](https://github.com/sendaifun)
+[LIT](https://github.com/LIT-Protocol)
+[goat](https://github.com/goat-sdk)
+[CrossMint](https://github.com/Crossmint/crossmint-sdk)
+[Solana Labs](https://github.com/solana-labs/solana)
+
