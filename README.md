@@ -24,7 +24,7 @@ We are proud to share our accomplishments across several categories, highlightin
 #### [x] Best Unhinged AI Agent Ever ($10,000): Designing an AI agent with unmatched creativity and unconventional brilliance.
 - ![image](https://github.com/apeoutmeme/Solana-AI-Hackathon-2024/blob/7c575c348a12740ec8934270bee9d322974de56f/Hackathon-2025-Solana-assets/apeSass.png?raw=true)
 - [See Here](https://github.com/apeoutmeme/Solana-AI-Hackathon-2024/blob/main/ApeSassBot.md)
-- - [Link to Demo](https://youtu.be/5nlNK3FHvws)
+
 
 
 ### Work-in-Progress Categories:
