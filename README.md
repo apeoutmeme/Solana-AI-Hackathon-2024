@@ -11,6 +11,9 @@ We are proud to share our accomplishments across several categories, highlightin
 
 ### Completed Categories:
 [x] Best Overall AI Agent Product ($20,000-$60,000): Demonstrating excellence in creating a groundbreaking AI agent.
+- ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/AIAgents.png?raw=true)
+- ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/auto-tp.png?raw=true)
+- [Link to Demo](https://youtu.be/5nlNK3FHvws)
 
 [x] Best Chat-Based Agent ($10,000): Showcasing an intuitive and highly interactive chat-based AI.
 
@@ -46,6 +49,7 @@ Our AI agents are equipped with the following capabilities:
 - Chat Interface: Highly interactive and user-friendly chat functionality for seamless communication.
 - Unconventional Creativity: Integrating innovative approaches to problem-solving and user engagement.
 - DeFi Tools: Advanced analytics and decision-making tools for token liquidity management and trading.
+- ![image](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/code-snip.png?raw=true)
 
 ### Next Steps
 - Complete development for the "Public Facing Agent" category.
