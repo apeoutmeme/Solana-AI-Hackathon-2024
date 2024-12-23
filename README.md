@@ -12,7 +12,7 @@ We are proud to share our accomplishments across several categories, highlightin
 ### Completed Categories:
 #### [x] Best Overall AI Agent Product ($20,000-$60,000): Demonstrating excellence in creating a groundbreaking AI agent.
 - ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/AIAgents.png?raw=true)
-- ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/auto-tp.png?raw=true)
+
 - [Link to Demo](https://youtu.be/5nlNK3FHvws)
 
 #### [x] Best Chat-Based Agent ($10,000): Showcasing an intuitive and highly interactive chat-based AI.
@@ -30,18 +30,24 @@ We are proud to share our accomplishments across several categories, highlightin
 - [Link to Demo](https://youtube.com/shorts/8P6By6ho9YU?feature=share)
 
 #### [X] Best Next-Gen Infra or Frameworks for AI Agents on Solana ($15,000): Innovating on foundational frameworks to enhance scalability and efficiency of AI agents on Solana.
+- ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/apemind1.png?raw=true)
+- [Link to Demo](https://youtube.com/shorts/8P6By6ho9YU?feature=share)
 
 
 #### [X] Best Tools for AI Agents to Manage Token Liquidity ($15,000): Building tools to optimize and streamline token liquidity management in DeFi ecosystems.
 - [Link to Demo](https://youtube.com/shorts/6oPZoRMNzk4?feature=share)
 - [Link to Demo](https://youtube.com/shorts/6UoK2ZHq78M?feature=share)
+- ![Banana Bill](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/bb.png?raw=true)
+- ![manage liquid](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/manageliquid.png?raw=true)
 
 ### Future Categories (Planned Work):
 #### [X] Best AI Agents - Spot Trading ($15,000): Exploring AI capabilities for intelligent and efficient spot trading in cryptocurrency markets.
 - [Link to Demo](https://youtube.com/shorts/pLLQ42dHaHs?feature=share)
 
+
 #### [ ] Best DeFi Agents ($15,000): Expanding into DeFi-specific use cases to provide robust AI-driven solutions for decentralized finance.
 Project Features
+- ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/auto-tp.png?raw=true)
 
 
 Our AI agents are equipped with the following capabilities:
