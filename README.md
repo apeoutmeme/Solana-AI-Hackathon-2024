@@ -43,11 +43,12 @@ We are proud to share our accomplishments across several categories, highlightin
 ### Future Categories (Planned Work):
 #### [X] Best AI Agents - Spot Trading ($15,000): Exploring AI capabilities for intelligent and efficient spot trading in cryptocurrency markets.
 - [Link to Demo](https://youtube.com/shorts/pLLQ42dHaHs?feature=share)
+- ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/auto-tp.png?raw=true)
 
 
 #### [ ] Best DeFi Agents ($15,000): Expanding into DeFi-specific use cases to provide robust AI-driven solutions for decentralized finance.
 Project Features
-- ![AI Agents](https://github.com/apeoutmeme/resources/blob/main/assets/Hackathon-2025-Solana-assets/auto-tp.png?raw=true)
+
 
 
 Our AI agents are equipped with the following capabilities:
