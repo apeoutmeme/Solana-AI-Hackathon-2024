@@ -82,13 +82,14 @@ Our AI agents are equipped with the following capabilities:
 
 Team
 1. [GenoGrand](https://x.com/genogrand_eth) – Co-Founder, SE Senior | Full Stack, Smart Contracts
-2. [CapCryptoFlint](https://x.com/CryptoFlin95216) – Founder & SE I | Full-Stack, API/Microservices
-3. [Blockchain Bonnie](https://x.com/AO_Solana) – UI/UX Lead | Design & Development
-4. [SirKodak]() - Ambassador & Community Manager
-5. [Web3Jayhen](https://x.com/Web3jayhen) - Ambassador/GFX
-6. [ApeSassBot](https://x.com/ApeSassBot) - Marketing | "Twitter"
-7. [ApeProphet](@apeProphet_Bot) - Marketing | "Telegram/Twitter"
-8. [BananaBucksBot](@banana_bucks_bot) - Trading/Custom Interactions | "Telegram"
+2. [Blockchain Bonnie](https://x.com/AO_Solana) – UI/UX Lead | Design & Development
+3. [SirKodak]() - Ambassador & Community Manager
+4. [Web3Jayhen](https://x.com/Web3jayhen) - Ambassador/GFX
+
+AI Team
+5. [ApeSassBot](https://x.com/ApeSassBot) - Marketing | "Twitter"
+6. [ApeProphet](@apeProphet_Bot) - Marketing | "Telegram/Twitter"
+7. [BananaBucksBot](@banana_bucks_bot) - Trading/Custom Interactions | "Telegram"
 
 ## 🔗 Links
 
